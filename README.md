@@ -1,3 +1,3 @@
-# a2oj-ladder-problems
+# Ladder-problems
 
-This repository contains JAVA Code for some interesting A2OJ ladder problems.
+This repository contains solutions for some interesting ladder problems of a2oj and c2.
